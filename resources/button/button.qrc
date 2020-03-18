@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/button">
+        <file>bt_softkeyboard.png</file>
+        <file>bt_notework.png</file>
+        <file>bt_screen.png</file>
+        <file>bt_music.png</file>
+        <file>bt_quit.png</file>
+        <file>bt_play.png</file>
+        <file>bt_stop.png</file>
+    </qresource>
+</RCC>
